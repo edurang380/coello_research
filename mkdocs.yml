@@ -15,8 +15,8 @@ theme :
   logo: img/logo_final_222.png
   features:
     - header.autohide
-    - navigation.tabs
-    - navitagion.sections
+    - navigation.instant
+    #- navitagion.sections
     #- toc.intergrate
     - navigation.top
     - search.suggest
