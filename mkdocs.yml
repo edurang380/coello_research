@@ -17,7 +17,7 @@ theme :
     - header.autohide
     - navigation.tabs
     #- navitagion.sections
-    #- toc.intergrate
+    - toc.intergrate
     - navigation.top
     - search.suggest
     - search.highlight
