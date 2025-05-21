@@ -1,11 +1,5 @@
 site_name: Coello
-nav:
-  #- Home: index.md 
-  #- Research: Research.md 
-  #- Services: Services.md
-  #- About: about.md
-  #- Posts: Posts.md
-        ## Doest his even work
+
 
 
 theme :
