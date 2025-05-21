@@ -1,9 +1,9 @@
 site_name: Coello
 nav:
-  - Home: index.md 
+  #- Home: index.md 
   #- Research: Research.md 
   #- Services: Services.md
-  - About: about.md
+  #- About: about.md
   #- Posts: Posts.md
         ## Doest his even work
 
@@ -19,9 +19,9 @@ theme :
     #- navitagion.sections
     #- toc.intergrate
     - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
+    #- search.suggest
+    #- search.highlight
+    #- content.tabs.link
     - contant.code.annotation
     - content.code.copy
   language: en
