@@ -21,9 +21,9 @@ theme :
     - navigation.top
     - search.suggest
     - search.highlight
-    #- content.tabs.link
-    #- contant.code.annotation
-    #- content.code.copy
+    - content.tabs.link
+    - contant.code.annotation
+    - content.code.copy
   language: en
   palette:
     - scheme: default
