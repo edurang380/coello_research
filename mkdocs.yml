@@ -1,10 +1,10 @@
 site_name: Coello
 nav:
- # - Home: index.md 
+  - Home: index.md 
   - Research: Research.md 
-#  - Services: Services.md
+  - Services: Services.md
   - About: about.md
- # - Posts: Posts.md
+  - Posts: Posts.md
         ## Doest his even work
 
 
@@ -16,8 +16,8 @@ theme :
   features:
     - header.autohide
     - navigation.tabs
-    #- navitagion.sections
-    #- toc.intergrate
+    - navitagion.sections
+    - toc.intergrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -47,8 +47,8 @@ extra:
       link: https://x.com/edum3800
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/eduardomedinaoliveira/
- # homepage: 
+  homepage: 
 
-#extra_css:
+extra_css:
 
-#  - stylesheets/custom.css
+  - stylesheets/custom.css
